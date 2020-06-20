@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'honda civic'
+}
+item {
+    id: 2
+    name: 'fiat punto'
+}
+item {
+    id: 3
+    name: 'opel astra'
+}
