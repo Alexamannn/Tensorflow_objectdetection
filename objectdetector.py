@@ -15,9 +15,6 @@ sys.path.append("..")
 from object_detection.utils import ops as utils_ops
 
 
-from IPython import get_ipython
-get_ipython().run_line_magic('matplotlib', 'inline')
-
 from object_detection.utils import label_map_util
 
 from object_detection.utils import visualization_utils as vis_util
