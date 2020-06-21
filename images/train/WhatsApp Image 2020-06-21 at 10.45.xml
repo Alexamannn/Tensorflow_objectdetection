@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2020-06-21 at 10.45.37.jpeg</filename>
+	<path>C:\Users\ADMIN\Desktop\models-master\research\object_detection\images\train\WhatsApp Image 2020-06-21 at 10.45.37.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

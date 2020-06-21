@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>WhatsApp Image 2020-06-21 at 10.43.42.jpeg</filename>
+	<path>C:\Users\ADMIN\Desktop\models-master\research\object_detection\images\train\WhatsApp Image 2020-06-21 at 10.43.42.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>engine gear alfa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>422</ymin>
+			<xmax>579</xmax>
+			<ymax>968</ymax>
+		</bndbox>
+	</object>
+</annotation>
